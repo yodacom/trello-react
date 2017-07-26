@@ -3,7 +3,8 @@ const React = require('react');
 const ReactDOM = require('react-dom');
 
 const Board = require('./components/board');
+const Person = require('./components/person');
 
 document.addEventListener('DOMContentLoaded', function () {
-    ReactDOM.render(<Board />, document.getElementById('app'));
+    ReactDOM.render(<PersonList />, document.getElementById('app'));
 });
