@@ -1,6 +1,6 @@
 {
     // Created from ESLint Starter: https://github.com/DominikSerafin/eslint-starter
-    // ESLint Docs: http://eslint.org/docs/rules/
+    // ESLint Docs: //eslint.org/docs/rules/
     "parser": "babel-eslint",
     //"extends": "airbnb",
     "ecmaFeatures": {

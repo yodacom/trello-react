@@ -14,6 +14,9 @@ const CardList = React.createClass({
             </div>
         );
     }
-});
+
+    // <input type = Text>
+
+    });
 
 module.exports = CardList;
